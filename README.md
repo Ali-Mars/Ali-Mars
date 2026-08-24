@@ -94,6 +94,18 @@ I thrive in the ambiguous parts of development. I don't just want to know *how* 
       <p>Rich <b>Educational Platform</b> featuring 3D rendering, scalable S3 storage, Telegram integration, real-time features, and robust document tooling.</p>
     </td>
   </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Ali-Mars/Building-charging-management" style="color: #F4C95D;">🏢 Building Charge Manager</a></h3>
+      <img src="https://readme-typing-svg.herokuapp.com/?lines=►+Android+%7C+Kotlin;►+Local-First+%7C+Offline;►+Finance+%7C+PDF+%7C+Widgets&font=Fira+Code&width=300&height=30&color=FFFFFF&size=12" />
+      <p>A <b>native Persian-first Android application</b> for building managers. It replaces spreadsheet-based charge management with a local-first system for dynamic charge calculation, payment and expense tracking, Persian RTL PDF reporting, receipt attachments, analytics, biometric security, backups, widgets, and local device-to-device transfer.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🧩 More Experiments & Systems</h3>
+      <img src="https://readme-typing-svg.herokuapp.com/?lines=►+Automation;►+Reverse+Engineering;►+Developer+Tools&font=Fira+Code&width=300&height=30&color=FFFFFF&size=12" />
+      <p>Beyond the flagship products above, I continuously build smaller tools, experiments, automation systems, and low-level utilities to understand how software behaves from the filesystem to production.</p>
+    </td>
+  </tr>
 </table>
 
 <br>
